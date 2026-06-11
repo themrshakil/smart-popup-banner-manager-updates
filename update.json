@@ -1,0 +1,7 @@
+{
+  "version": "2.6.0",
+  "download_url": "https://YOUR-DOWNLOAD-LINK.zip",
+  "requires": "6.0",
+  "tested": "6.6",
+  "changelog": "Production release with analytics and license improvements."
+}
