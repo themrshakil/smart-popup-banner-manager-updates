@@ -1,7 +1,7 @@
 {
-  "version": "2.6.0",
+  "version": "2.6.1",
   "download_url": "https://raw.githubusercontent.com/themrshakil/smart-popup-banner-manager-updates/main/smart-popup-banner-manager-v2.6.1.zip",
   "requires": "6.0",
-  "tested": "6.6",
-  "changelog": "Production release with analytics and license improvements."
+  "tested": "7.0",
+  "changelog": "Fixed update URL and production improvements."
 }
